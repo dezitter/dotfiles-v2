@@ -13,6 +13,10 @@ Clone this repository into `~/workspace/github.com/ldezitter/dotfiles`.
 ln -s ~/workspace/github.com/ldezitter/dotfiles/.zshrc ~/.zshrc
 ```
 
+### pip
+
+1. Install [pip](https://pip.pypa.io/en/stable/installing/)
+
 ### neovim
 
 1. Install [neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
