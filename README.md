@@ -24,3 +24,7 @@ ln -s ~/workspace/github.com/ldezitter/dotfiles/.zshrc ~/.zshrc
 ### tig
 
 1. Install [tig](https://jonas.github.io/tig/INSTALL.html)
+
+### tmux
+
+1. Install [tmux](https://github.com/tmux/tmux)
