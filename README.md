@@ -28,3 +28,7 @@ ln -s ~/workspace/github.com/ldezitter/dotfiles/.zshrc ~/.zshrc
 ### tmux
 
 1. Install [tmux](https://github.com/tmux/tmux)
+
+### ranger
+
+1. Install [ranger](https://github.com/ranger/ranger)
