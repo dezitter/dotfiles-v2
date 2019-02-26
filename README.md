@@ -20,6 +20,17 @@ ln -s ~/workspace/github.com/ldezitter/dotfiles/.zshrc ~/.zshrc
 ### neovim
 
 1. Install [neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+2. Link the init.vim file
+
+```
+ln -s ~/workspace/github.com/ldezitter/dotfiles/vim/init.vim ~/.config/nvim/init.vim
+```
+
+3. Link the colorscheme
+
+```
+ln -s ~/workspace/github.com/ldezitter/dotfiles/vim/colors/molokai.vim ~/.config/nvim/colors/molokai.vim
+```
 
 ### tig
 
