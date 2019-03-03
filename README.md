@@ -39,6 +39,11 @@ ln -s ~/workspace/github.com/ldezitter/dotfiles/vim/colors/molokai.vim ~/.config
 ### tmux
 
 1. Install [tmux](https://github.com/tmux/tmux)
+2. Link the tmux.conf file
+
+```
+ln -s ~/workspace/github.com/ldezitter/dotfiles/tmux.conf ~/.tmux.conf
+```
 
 ### ranger
 
